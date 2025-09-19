@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 Currently pursuing B.Tech at Centurion University of Technology and Management (CUTM)
-👯 Open to collaborating on Full-Stack Development and AWS Cloud Management projects
-🤝 Interested in contributing to innovative and impactful projects
-🌱 Actively learning new technologies and software tools to enhance my skills
-💬 Feel free to reach out for discussions on development, cloud technologies, or collaborative opportunities
-⚡ Fun fact: I believe in working smart while staying efficient
+🔭 Currently pursuing B.Tech at Centurion University of Technology and Management (CUTM) 👯 Open to collaborating on Full-Stack Development and AWS Cloud Management projects 🤝 Interested in contributing to innovative and impactful projects 🌱 Actively learning new technologies and software tools to enhance my skills 💬 Feel free to reach out for discussions on development, cloud technologies, or collaborative opportunities ⚡ Fun fact: I believe in working smart while staying efficient
 
 
 ## 🌐 Socials:
