@@ -1,6 +1,16 @@
-# 💫 About Me:
-🔭 Currently pursuing B.Tech at Centurion University of Technology and Management (CUTM) 👯 Open to collaborating on Full-Stack Development and AWS Cloud Management projects 🤝 Interested in contributing to innovative and impactful projects 🌱 Actively learning new technologies and software tools to enhance my skills 💬 Feel free to reach out for discussions on development, cloud technologies, or collaborative opportunities ⚡ Fun fact: I believe in working smart while staying efficient
+✨ About Me
 
+🎓 Currently pursuing B.Tech at Centurion University of Technology and Management (CUTM)
+
+💻 Open to collaborating on Full-Stack Development and AWS Cloud Management projects
+
+🤝 Interested in contributing to innovative and impactful projects
+
+🌱 Actively learning new technologies and software tools to enhance my skills
+
+💬 Feel free to reach out for discussions on development, cloud technologies, or collaborative opportunities
+
+⚡ Fun fact: I believe in working smart while staying efficient
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-senapati-718000289/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/North_Membership_25/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/home) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:senapatiayush07@gmail.com) 
