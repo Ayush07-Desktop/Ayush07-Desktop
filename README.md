@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently Pursuing My B-tech Student at CUTM<br>👯 I’m looking to collaborate on Fullstack Developer and AWS Management<br>🤝 I’m looking for help with Developing new projects<br>🌱 I’m currently learning about more new software devices<br>💬 Ask me about anything<br>⚡ Fun fact -I am lazybut smart
+🔭 Currently pursuing B.Tech at Centurion University of Technology and Management (CUTM)
+👯 Open to collaborating on Full-Stack Development and AWS Cloud Management projects
+🤝 Interested in contributing to innovative and impactful projects
+🌱 Actively learning new technologies and software tools to enhance my skills
+💬 Feel free to reach out for discussions on development, cloud technologies, or collaborative opportunities
+⚡ Fun fact: I believe in working smart while staying efficient
 
 
 ## 🌐 Socials:
