@@ -33,3 +33,34 @@
 🎯 My long-term goal is to build a career in **Cloud Engineering and DevOps**, while strengthening my software development and infrastructure skills.
 
 ---
+
+## 🚀 Current Focus
+
+- ☁️ Building and deploying applications using **AWS Cloud Services**
+- 💻 Developing modern **Full-Stack Web Applications**
+- 🐳 Learning **Docker, Linux and DevOps practices**
+- ⚙️ Exploring **CI/CD pipelines and cloud automation**
+- 📚 Strengthening my knowledge of **Cloud Architecture and Infrastructure**
+- 🎯 Preparing for **Cloud Engineering and DevOps opportunities**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:senapatiayush07@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-senapati-718000289/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ayush07-Desktop">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
