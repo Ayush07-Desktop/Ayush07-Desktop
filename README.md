@@ -102,3 +102,54 @@
 * 🚀 Improved practical frontend development and web-design skills.
 
 ---
+
+## 🚀 Featured Projects
+
+### 💼 Job Board Application
+
+**React.js • Node.js • Express.js • MongoDB**
+
+* 🔎 Search and filter jobs by **title, company, location and job type**
+* 👤 Supports job browsing, detailed job information and user-friendly navigation
+* ❤️ Includes job favorites and organized job categories
+* ⚙️ Built with a modern **Full-Stack architecture**
+* 🗄️ MongoDB used for scalable data management
+
+---
+
+### 🧠 Online Quiz Maker
+
+**React.js • Firebase Authentication • Firestore**
+
+* 📝 Create, manage and attempt interactive quizzes
+* 🔐 Secure user authentication using **Firebase Authentication**
+* 📊 Calculates score, correct, incorrect and unanswered questions
+* 🗄️ Stores quizzes and user results using **Cloud Firestore**
+* 👤 Includes personalized user dashboard and quiz history
+
+---
+
+### ☁️ Portfolio Website with AWS CI/CD
+
+**AWS S3 • GitHub Actions • IAM • CI/CD**
+
+* 🌐 Hosted a static portfolio website using **Amazon S3**
+* ⚙️ Implemented automated deployment using **GitHub Actions**
+* 🔐 Configured **AWS IAM permissions** for secure deployments
+* 🚀 Automated website updates whenever changes are pushed to GitHub
+* ☁️ Gained hands-on experience with cloud hosting and CI/CD workflows
+
+---
+
+### 🏠 Real Estate Management System
+
+**React.js • JavaScript • LocalStorage • React Router**
+
+* 🏘️ Built a property management platform with add, edit and delete functionality
+* 🔍 Provides detailed property information and agent contact features
+* 🧭 Implemented multiple application pages using **React Router**
+* 💾 Managed property information using browser **LocalStorage**
+* 📱 Designed a responsive and user-friendly interface
+
+---
+
