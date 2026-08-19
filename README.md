@@ -230,7 +230,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ayush07-Desktop&theme=transparent&hide_border=true" />
+<a href="https://git.io/streak-stats">
+  <img src="./profile/streak.svg" alt="Ayush Kumar Senapati GitHub Streak" />
+</a>
 
 </div>
 
