@@ -192,3 +192,27 @@
 </p>
 
 ---
+
+## 📚 Currently Learning
+
+* ☁️ **Advanced AWS Cloud Architecture** and scalable cloud solutions
+* 🐳 **Docker & Containerization** for modern application deployment
+* ☸️ **Kubernetes** fundamentals and container orchestration
+* 🐧 **Linux Administration & Networking** for cloud environments
+* ⚙️ **DevOps, CI/CD & Automation** using modern development workflows
+* 🏗️ Strengthening knowledge of **Cloud Infrastructure & System Design**
+
+---
+
+## 🏆 Certifications & Achievements
+
+* ☁️ **AWS Solutions Architect**
+* 🔴 **Oracle Cloud Infrastructure – Foundations Associate**
+* 🔴 **Oracle Cloud Infrastructure – DevOps Professional**
+* 💻 Completed **Java Full-Stack Development Internship**
+* 🌐 Completed **Web Development Internship – Skill Bird Technologies**
+* 🚀 Completed **Web Development Internship – CodSoft**
+* 🧠 Participated in **Generative AI & Technology Workshops**
+
+---
+
