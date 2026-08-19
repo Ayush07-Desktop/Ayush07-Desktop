@@ -216,3 +216,30 @@
 
 ---
 
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Ayush07-Desktop&show_icons=true&theme=transparent&hide_border=true" />
+
+<img width="41%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ayush07-Desktop&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ayush07-Desktop&theme=transparent&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush07-Desktop&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
