@@ -245,3 +245,43 @@
 </div>
 
 ---
+
+## 🧠 Core Skills
+
+- ✅ AWS Cloud Services
+- ✅ Cloud Computing & Infrastructure
+- ✅ React.js
+- ✅ Node.js & Express.js
+- ✅ REST API Development
+- ✅ MongoDB & MySQL
+- ✅ Firebase & Firestore
+- ✅ Git & GitHub
+- ✅ Docker & Containerization
+- ✅ Linux Administration
+- ✅ CI/CD & GitHub Actions
+- ✅ Cloud Deployment
+- ✅ Problem Solving
+
+---
+
+## 🎯 Career Objective
+
+To build a career as a **Cloud Engineer and DevOps professional**, designing scalable, secure and reliable cloud solutions while continuously strengthening my knowledge of **AWS, automation, CI/CD, containerization and modern software development**.
+
+I aim to combine my **Full-Stack Development** experience with cloud technologies to build, deploy and manage production-ready applications and infrastructure.
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+- ☁️ **AWS & Cloud Computing Projects**
+- ⚙️ **DevOps and CI/CD Projects**
+- 🐳 **Docker & Containerized Applications**
+- 💻 **Full-Stack Web Applications**
+- 🚀 **Cloud-Based Application Development**
+- 🌐 **Open Source Projects**
+- 🤖 **AI-powered Web Applications**
+
+---
