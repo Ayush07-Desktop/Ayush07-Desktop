@@ -64,3 +64,41 @@
 </p>
 
 ---
+
+## 💼 Experience
+
+### ☁️ Web Development Intern — CodSoft
+
+**Web Development Internship**
+
+* 🚀 Built and developed multiple **Full-Stack and React-based web applications**.
+* 💼 Developed a **Job Board Application** with React.js, Node.js, Express.js and MongoDB.
+* 🧠 Built an **Online Quiz Maker** using React.js, Firebase Authentication and Firestore.
+* 🔐 Worked with authentication, databases, REST APIs and responsive user interfaces.
+* 🛠️ Used **Git & GitHub** for version control and project management.
+
+---
+
+### 💻 Java Full-Stack Development Intern
+
+**Centurion University of Technology and Management, Bhubaneswar**
+
+📅 **2026**
+
+* 🌐 Gained practical experience in **Java Full-Stack Web Development**.
+* ⚙️ Worked with frontend, backend and database concepts while developing web applications.
+* 🧩 Strengthened understanding of application architecture, development workflows and debugging.
+* 🤝 Collaborated in a practical development environment and improved problem-solving skills.
+
+---
+
+### 🌐 Web Development Intern — Skill Bird Technologies
+
+📅 **June 2025 – July 2025**
+
+* 💻 Developed responsive web pages using **HTML, CSS and JavaScript**.
+* 📱 Worked on responsive layouts and reusable frontend components.
+* 🔧 Used **Git and GitHub** for source-code management and project updates.
+* 🚀 Improved practical frontend development and web-design skills.
+
+---
