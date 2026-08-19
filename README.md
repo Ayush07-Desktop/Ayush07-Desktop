@@ -7,13 +7,11 @@
 ### 🚀 Cloud Engineering Enthusiast
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ayush07-Desktop\&label=PROFILE%20VIEWS\&style=for-the-badge)
-
-![GitHub Followers](https://img.shields.io/github/followers/Ayush07-Desktop?label=FOLLOWERS\&style=for-the-badge)
-
-![GitHub Stars](https://img.shields.io/github/stars/Ayush07-Desktop?affiliations=OWNER\&label=STARS\&style=for-the-badge)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush07-Desktop&label=PROFILE%20VIEWS&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Ayush07-Desktop?label=FOLLOWERS&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Ayush07-Desktop?affiliations=OWNER&label=STARS&style=for-the-badge" />
+</p>
 </div>
 
 ---
