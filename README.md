@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Aspiring+Cloud+Engineer;Full-Stack+Developer;AWS+Cloud+Enthusiast;DevOps+%26+CI%2FCD+Enthusiast;Building+Scalable+Cloud+Solutions;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Aspiring+Cloud+Engineer;Full-Stack+Developer;AWS+Cloud+Enthusiast;DevOps+%26+CI%2FCD+Enthusiast;"
     alt="Typing SVG"
   />
 </p>
