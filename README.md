@@ -4,14 +4,21 @@
 
 ### ☁️ Cloud & Full-Stack Developer | AWS | React.js | Node.js | DevOps
 
-### 🚀 Cloud Engineering Enthusiast
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Aspiring+Cloud+Engineer;Full-Stack+Developer;AWS+Cloud+Enthusiast;DevOps+%26+CI%2FCD+Enthusiast;Building+Scalable+Cloud+Solutions;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</p>
 
 <br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayush07-Desktop&label=PROFILE%20VIEWS&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Ayush07-Desktop?label=FOLLOWERS&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Ayush07-Desktop?affiliations=OWNER&label=STARS&style=for-the-badge" />
 </p>
+
 </div>
 
 ---
