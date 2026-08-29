@@ -246,6 +246,16 @@
   />
 </div>
 
+<br>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush07-Desktop&theme=github-compact&hide_border=true&area=true&custom_title=Ayush%20Senapati%27s%20Contribution%20Graph"
+    alt="Ayush Kumar Senapati Contribution Graph"
+  />
+</div>
+
 ---
 
 ## 🧠 Core Skills
